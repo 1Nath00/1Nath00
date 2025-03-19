@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, i'm student at University of Valley, my name is Natalia Gomez 👋
 
 <!--
 **1Nath00/1Nath00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
